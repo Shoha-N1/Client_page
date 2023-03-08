@@ -35,10 +35,6 @@ button {
 
 /* B L O C K _ P O S T */
 
-.header-don {
-  background-color: rgba(239, 247, 242, 1);
-}
-
 .block_post_header {
   display: flex;
   align-items: center;
@@ -1391,6 +1387,9 @@ button {
   margin-top: 5%;
 }
 
+
+        /* W h a t  We Do */
+
 .hero__box {
   display: flex;
   align-items: center;
@@ -2296,6 +2295,11 @@ button {
 
 /* D O N A T I O N _ P A G E */
 
+/* Ba'zi classlar 'what we do' html dan olingan */
+
+.header-don {
+  background-color: rgba(239, 247, 242, 1);
+}
 
 .donate_btn {
   margin-top: 32px;
